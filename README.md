@@ -1,2 +1,1 @@
-# barbearia
-trabalho da escola
+Barbearia Alura
